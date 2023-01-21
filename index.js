@@ -71,7 +71,7 @@ const postData = (signature, landed, name,  email) => new Promise((resolve, reje
 })
 });
 
-const getSignature = (response_id) => new Promise ((resolve, reject) => {
+const getSignature = () => new Promise ((resolve, reject) => {
     fetch(`https://form.typeform.com/forms/kI6Wpt7v/start-submission`, {
         method: 'POST',
         headers: {
