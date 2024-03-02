@@ -1,6 +1,6 @@
 {
   "name": "@hamzahamru/autofill-typeform",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "dependencies": {
     "my_dep": "^1.0.0",
     "another_dep": "~2.2.0"
