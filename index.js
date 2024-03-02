@@ -1,4 +1,4 @@
-// auto https://www.architect.xyz/
+
 // author : https://github.com/hamzahamru/
 
 const fetch = require('node-fetch');
