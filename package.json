@@ -1,10 +1,6 @@
 {
   "name": "@hamzahamru/autofill-typeform",
   "version": "1.0.0",
-  "dependencies": {
-    "my_dep": "^1.0.1",
-    "another_dep": "~2.2.0"
-  },
   "description": "autofill-typeform",
   "main": "index.js",
   "scripts": {
