@@ -1,6 +1,6 @@
 {
   "name": "@hamzahamru/autofill-typeform",
-  "version": "1.0.2-a",
+  "version": "1.0.3",
   "dependencies": {
     "node-fetch": "^2.6.0"
   },
