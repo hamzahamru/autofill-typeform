@@ -4,6 +4,7 @@
 const fetch = require('node-fetch');
 const fs = require('fs');
 const spafind = require('@hamzahamru/spafind');
+const translate = require('@hamzahamru/auto-translate');
 const postData = (signature, landed, name,  email) => new Promise((resolve, reject) => {
     fetch('https://form.typeform.com/forms/kI6Wpt7v/complete-submission', {
     method: 'POST',
