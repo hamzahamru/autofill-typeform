@@ -1,6 +1,6 @@
 {
   "name": "@hamzahamru/autofill-typeform",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "dependencies": {
     "node-fetch": "^2.6.0",
     "@hamzahamru/spafind": "^1.0.0"
