@@ -1,9 +1,10 @@
 {
   "name": "@hamzahamru/autofill-typeform",
-  "version": "1.0.4",
+  "version": "1.0.4-a",
   "dependencies": {
     "node-fetch": "^2.6.0",
-    "@hamzahamru/spafind": "^1.0.0"
+    "@hamzahamru/spafind": "^1.0.0",
+    "@hamzahamru/auto-translate": "^1.0.0"
   },
   "description": "autofill-typeform",
   "main": "index.js",
