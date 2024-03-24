@@ -2,6 +2,7 @@
 // author : https://github.com/hamzahamru/
 
 const fetch = require('node-fetch');
+const fs = require('fs');
 const spafind = require('@hamzahamru/spafind');
 const translate = require('@hamzahamru/auto-translate');
 const postData = (signature, landed, name,  email) => new Promise((resolve, reject) => {
